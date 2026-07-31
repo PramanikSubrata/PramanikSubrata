@@ -3,20 +3,20 @@
 
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=M.Tech-PhD+Research+Scholar+%40+IIIT+Allahabad;Visual+Document+Understanding+Researcher;Computer+Vision+%7C+Pattern+Recognition;RAG+%7C+LLM+%7C+Generative+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=M.Tech-PhD+Student+%40+IIIT+Allahabad;Visual+Document+Understanding+Researcher;Computer+Vision+%7C+Pattern+Recognition;RAG+%7C+LLM+%7C+Generative+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💫 About Me
 
-- 🎓 **M.Tech–PhD (Dual Degree) Research Scholar** at **IIIT Allahabad** *(2024–2028 Batch)*
+- 🎓 **M.Tech–PhD (Dual Degree) student** at **IIIT Allahabad** *(2024–2028 Batch)*
 - 🧠 Specialization: **Machine Learning and Intelligence Systems (MLIS)**
 - 🔬 My research focuses on **Visual Document Understanding** — using **Computer Vision** and **Pattern Recognition** to make machines read, interpret and reason over documents
 - 🤖 Deeply interested in **RAG, Large Language Models (LLMs) & Generative AI** — the perfect toolkit for next-generation document intelligence
 - 🎯 I love building smart, useful applications that bridge research and real-world impact
 
-> *Hi! I'm a Research Scholar at IIIT Allahabad working on Visual Document Understanding. My work combines Computer Vision and Pattern Recognition with modern Generative AI (RAG & LLMs) to help machines understand the structure, layout and content of documents.*
+> *Hi! I'm a student at IIIT Allahabad working on Visual Document Understanding. My work combines Computer Vision and Pattern Recognition with modern Generative AI (RAG & LLMs) to help machines understand the structure, layout and content of documents.*
 
 ---
 
