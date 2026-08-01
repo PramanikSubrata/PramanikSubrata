@@ -11,7 +11,7 @@
 <!-- ============================================================= -->
 <div align="center">
   <a href="https://pramaniksubrata.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26D0CE&center=true&vCenter=true&width=650&height=50&lines=M.Tech-PhD+Student+%40+IIIT+Allahabad;Visual+Document+Understanding+Researcher;Computer+Vision+%7C+Pattern+Recognition;RAG+%7C+LLM+%7C+Generative+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26D0CE&center=true&vCenter=true&width=650&height=50&lines=M.Tech-PhD+Researcher+%40+IIIT+Allahabad;Visual+Document+Understanding+Researcher;Computer+Vision+%7C+Pattern+Recognition;RAG+%7C+LLM+%7C+Generative+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -40,13 +40,13 @@
 <!-- ============================================================= -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-- 🎓 &nbsp;**M.Tech–PhD (Dual Degree)** student at **IIIT Allahabad** *(2024–2028 Batch)*
+- 🎓 &nbsp;**M.Tech–PhD (Dual Degree)** Researcher at **IIIT Allahabad** *(2024–2028 Batch)*
 - 🧠 &nbsp;Specialization: **Machine Learning and Intelligence Systems (MLIS)**
 - 🔬 &nbsp;My research focuses on **Visual Document Understanding** — using **Computer Vision** and **Pattern Recognition** to make machines read, interpret and reason over documents
 - 🤖 &nbsp;Deeply interested in **RAG, Large Language Models (LLMs) & Generative AI** — the perfect toolkit for next-generation document intelligence
 - 🎯 &nbsp;I love building smart, useful applications that bridge research and real-world impact
 
-> *Hi! I'm a student at IIIT Allahabad working on Visual Document Understanding. My work combines Computer Vision and Pattern Recognition with modern Generative AI (RAG & LLMs) to help machines understand the structure, layout and content of documents.*
+> *Hi! I'm a Researcher at IIIT Allahabad working on Visual Document Understanding. My work combines Computer Vision and Pattern Recognition with modern Generative AI (RAG & LLMs) to help machines understand the structure, layout and content of documents.*
 
 <!-- twinkle divider -->
 <img src="https://raw.githubusercontent.com/PramanikSubrata/PramanikSubrata/main/assets/divider.svg" width="100%" />
