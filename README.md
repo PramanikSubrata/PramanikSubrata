@@ -1,12 +1,4 @@
 <!-- ============================================================= -->
-<!--            ANIMATED NIGHT-SKY HEADER (twinkling stars)        -->
-<!--  NOTE: upload header.svg to  assets/header.svg  in this repo  -->
-<!-- ============================================================= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PramanikSubrata/PramanikSubrata/main/assets/header.svg" width="100%" alt="Subrata Pramanik" />
-</div>
-
-<!-- ============================================================= -->
 <!--                      TYPING ANIMATION                         -->
 <!-- ============================================================= -->
 <div align="center">
@@ -78,8 +70,16 @@
 
 | Year | Title | Venue | Link |
 |:----:|:------|:-----:|:----:|
-| 2026 | *Your Paper Title Here* |  2026 | [![Paper](https://img.shields.io/badge/📄-Paper-2E86DE?style=flat-square)](link) |
-| 2025 | *Another Paper Title* | Journal / Conference | [![Paper](https://img.shields.io/badge/📄-Paper-2E86DE?style=flat-square)](link) |
+| 2026 | *Your Paper Title Here* |  2026 | [
+
+![Paper](https://img.shields.io/badge/📄-Paper-2E86DE?style=flat-square)
+
+](link) |
+| 2025 | *Another Paper Title* | Journal / Conference | [
+
+![Paper](https://img.shields.io/badge/📄-Paper-2E86DE?style=flat-square)
+
+](link) |
 
 </div>
 
@@ -118,17 +118,61 @@
 
 <div align="center">
 
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+
+
 ![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+
+
+
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+
+
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 </div>
 
@@ -150,22 +194,17 @@
 
 <br/><br/>
 
+
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PramanikSubrata&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
+
+
 </div>
 
 <!-- ============================================================= -->
-<!--                  CONTRIBUTION SNAKE                           -->
+<!--                      PROFILE VIEWS                            -->
 <!-- ============================================================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PramanikSubrata/PramanikSubrata/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
-<!-- ============================================================= -->
-<!--                        FOOTER                                 -->
-<!-- ============================================================= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PramanikSubrata/PramanikSubrata/main/assets/footer.svg" width="100%" />
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=PramanikSubrata&label=Profile%20Views&color=2E86DE&style=flat" alt="profile views" />
 </div>
