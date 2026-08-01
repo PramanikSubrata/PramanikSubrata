@@ -78,7 +78,7 @@
 
 | Year | Title | Venue | Link |
 |:----:|:------|:-----:|:----:|
-| 2026 | *Your Paper Title Here* | CVIP 2026 | [![Paper](https://img.shields.io/badge/📄-Paper-2E86DE?style=flat-square)](link) |
+| 2026 | *Your Paper Title Here* |  2026 | [![Paper](https://img.shields.io/badge/📄-Paper-2E86DE?style=flat-square)](link) |
 | 2025 | *Another Paper Title* | Journal / Conference | [![Paper](https://img.shields.io/badge/📄-Paper-2E86DE?style=flat-square)](link) |
 
 </div>
