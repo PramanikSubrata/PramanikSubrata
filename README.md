@@ -38,9 +38,8 @@
 <div align="center">
 
 | 👁️ Computer Vision | 🧩 Pattern Recognition |
-|:---:|:---:|:---:|
-| 🤖 **Multimodal LLMs** |  **Retrieval-Augmented Generation** |
-| ✨ **Generative AI** | 🧠 **Deep Learning**  |
+|:---:|:---:
+|  **Retrieval-Augmented Generation** |✨ **Generative AI**|
 
 </div>
 
