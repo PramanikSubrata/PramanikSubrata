@@ -37,10 +37,10 @@
 
 <div align="center">
 
-| 📄 Visual Document Understanding | 👁️ Computer Vision | 🧩 Pattern Recognition |
+| 👁️ Computer Vision | 🧩 Pattern Recognition |
 |:---:|:---:|:---:|
-| 🔎 **Document Image Analysis** | 🤖 **Multimodal LLMs** | 📚 **Retrieval-Augmented Generation** |
-| ✨ **Generative AI** | 🧠 **Deep Learning** | 🗂️ **Document Layout Analysis** |
+| 🤖 **Multimodal LLMs** |  **Retrieval-Augmented Generation** |
+| ✨ **Generative AI** | 🧠 **Deep Learning**  |
 
 </div>
 
