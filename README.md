@@ -3,7 +3,7 @@
 <!-- ============================================================= -->
 <div align="center">
   <a href="https://pramaniksubrata.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26D0CE&center=true&vCenter=true&width=650&height=50&lines=M.Tech-PhD+Researcher+%40+IIIT+Allahabad;Visual+Document+Understanding+Researcher;Computer+Vision+%7C+Pattern+Recognition;RAG+%7C+LLM+%7C+Generative+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26D0CE&center=true&vCenter=true&width=650&height=50&lines=M.Tech-PhD+Researcher+%40+IIIT+Allahabad;Computer+Vision+%7C+Pattern+Recognition;RAG+%7C+LLM+%7C+Generative+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-> *Hi! I'm a Researcher at IIIT Allahabad working on Visual Document Understanding. My work combines Computer Vision and Pattern Recognition with modern Generative AI (RAG & LLMs) to help machines understand the structure, layout and content of documents.*
+> *Hi! I'm a Researcher at IIIT Allahabad . My work combines Computer Vision and Pattern Recognition with modern Generative AI (RAG & LLMs) *
 
 <img src="https://raw.githubusercontent.com/PramanikSubrata/PramanikSubrata/main/assets/divider.svg" width="100%" />
 
